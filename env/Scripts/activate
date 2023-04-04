@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\Asus\Desktop\weather-app-updated\Weather_App-with-Python-Django\env"
+VIRTUAL_ENV="C:\Users\Asus\Desktop\good-ai-project\Weather_App-with-Python-Django\env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
